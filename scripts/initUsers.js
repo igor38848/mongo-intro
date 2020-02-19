@@ -1,5 +1,4 @@
 "use presentation";
-print("azaza");
 
 var users = [];
 var companies = [];
