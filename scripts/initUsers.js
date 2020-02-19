@@ -23,7 +23,7 @@ db.companies.insert(companies);
 printjson(companies);
 
 function generateUser(firstName, lastName) {
-	var object = new Object();
+	var object = {}
 	object.firstName = firstName;
 	object.lastName = lastName;
 
